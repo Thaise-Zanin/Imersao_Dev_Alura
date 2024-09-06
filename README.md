@@ -6,3 +6,4 @@ personalidades e tudo que os torna especiais. Mergulhe nesse ambiente cheio de f
 magia e diversão, e conheça mais sobre os personagens que você adora!
 
 Feito juntamente com o curso da Alura. (Imersão Dev com Gemini)
+Link para o site: https://imersao-dev-alura-hello-kitty-f3na56gn5-thaise-zanins-projects.vercel.app/
