@@ -7,7 +7,8 @@ let dados = [
         corTexto: "#b50531f9",
         corTitulo: "#b50531f9",
         larguraImagem: "40px",
-        alturaImagem: "48px"
+        alturaImagem: "48px",
+        tags: "gatinha"
     },
     {
         titulo: "Mimmy",
@@ -17,7 +18,8 @@ let dados = [
         corTexto: "#dbd81d",
         corTitulo: "#dbd81d",
         larguraImagem: "65px",
-        alturaImagem: "50px"
+        alturaImagem: "50px",
+        tags: "irmã da hello kitty"
     },
     {
         titulo: "My Melody",
@@ -27,7 +29,8 @@ let dados = [
         corTexto: "#f73b90",
         corTitulo: "#f73b90",
         larguraImagem: "60px",
-        alturaImagem: "50px"
+        alturaImagem: "50px",
+        tags: "coelhinha rosa"
     },
     {
         titulo: "Kuromi",
@@ -37,7 +40,8 @@ let dados = [
         corTexto: "#2c2b2f",
         corTitulo: "#2c2b2f",
         larguraImagem: "45px",
-        alturaImagem: "50px"
+        alturaImagem: "50px",
+        tags: "coelha gótica malvada"
     }, 
     {
         titulo: "Badtz Maru",
@@ -47,7 +51,8 @@ let dados = [
         corTexto: "#000000",
         corTitulo: "#000000",
         larguraImagem: "40px",
-        alturaImagem: "50px"
+        alturaImagem: "50px",
+        tags: "pinguim"
     },
     {
         titulo: "Cinnamoroll",
@@ -57,7 +62,8 @@ let dados = [
         corTexto: "#42b3f0",
         corTitulo: "#42b3f0",
         larguraImagem: "80px",
-        alturaImagem: "45px"
+        alturaImagem: "45px",
+        tags: "voador voar branco canela "
     },
     {
         titulo: "My Sweet Piano",
@@ -67,7 +73,8 @@ let dados = [
         corTexto: "f7a1b7",
         corTitulo: "#f7a1b7",
         larguraImagem: "50px",
-        alturaImagem: "60px"
+        alturaImagem: "60px",
+        tags: "ovelha rosa ovelhinha"
     },
     {
         titulo: "Pochacco",
@@ -77,7 +84,8 @@ let dados = [
         corTexto: "#ff0059",
         corTitulo: "#ff0059",
         larguraImagem: "50px",
-        alturaImagem: "50px"
+        alturaImagem: "50px",
+        tags: "cachorro fofo cachorrinho"
     }, 
     {
         titulo: "Chococat",
@@ -87,7 +95,8 @@ let dados = [
         corTexto: "#3b2d23",
         corTitulo: "#3b2d23",
         larguraImagem: "50px",
-        alturaImagem: "50px"
+        alturaImagem: "50px",
+        tags: "gatinho gato"
     }, 
     {
         titulo: "Pompompurin",
@@ -97,7 +106,8 @@ let dados = [
         corTexto: "#e6e222",
         corTitulo: "#e6e222",
         larguraImagem: "50px",
-        alturaImagem: "50px"
+        alturaImagem: "50px",
+        tags: "cachorrinho caramelo"
     }, 
     {
         titulo: "Keroppi",
@@ -107,7 +117,8 @@ let dados = [
         corTexto: "#85c800",
         corTitulo: "#85c800",
         larguraImagem: "50px",
-        alturaImagem: "50px"
+        alturaImagem: "50px",
+        tags: "sapo verde"
     },
 ];
 
